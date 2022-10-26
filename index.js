@@ -4,7 +4,7 @@ const cors = require('cors')
 const port = process.env.PORT || 5000;
 
 app.use(cors());
-
+git push -u origin main
 
 const categories = require('./categories.json');
 
