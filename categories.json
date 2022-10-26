@@ -1,0 +1,57 @@
+[
+  {
+  "_id": "1",
+  "name": "Artificial Inteligence",
+  "details": "Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals and humans.",
+  "seller": "WE",
+  "price": 560,
+  "img": "https://www.greenbiz.com/sites/default/files/images/articles/featured/shutterstock_680929729.jpg",
+  "quantity": 0
+ },
+
+ {
+  "id": "2",
+  "name": "Data Secince",
+  "details": "Data science combines math and statistics, specialized programming, advanced analytics, artificial intelligence (AI), and machine learning with specific subject ",
+  "seller": "WE",
+  "price": 600,
+  "img": "https://juristecplus.com/wp-content/uploads/2022/03/Data-Science.jpg",
+  "quantity": 0
+ },
+ {
+  "id": "3",
+  "name": "Deep Learning",
+  "details": "Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers. These neural networks attemp",
+  "seller": "WE",
+  "price": 680,
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBjcoqPypykPu-NC1rlYi8879dAmqdjEAD7w&usqp=CAU",
+  "quantity": 0
+ },
+ {
+  "id": "4",
+  "name": "Machine Learning",
+  "details": "The Most Relevant information. 100% Privacy Protected! Find what you are looking for Here. 99% Match on Machine Learning Master",
+  "seller": "WE",
+  "price": 420,
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8uLRZFwAm3TlecBwQK3rtq2x98E3oVo5gamBVkn8tgLml4l1LH_mTn4UBbOB49qOBgBw&usqp=CAU",
+  "quantity": 0
+ },
+ {
+  "id": "5",
+  "name": "Python",
+  "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.",
+  "seller": "WE",
+  "price": 620,
+  "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIX_BwFDEU3pkjfnkjRXSCTeFt1CW4nNrWIA&usqp=CAU",
+  "quantity": 0
+ },
+ {
+  "id": "6",
+  "name": "Data Structure and Algorithm",
+  "details": "A data structure is a named location that can be used to store and organize data. And, an algorithm is a collection of steps to solve a particular problem.",
+  "seller": "WE",
+  "price": 450,
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5UZuhAggF0xOgQqJIjYen58y2EUaGT60HlEy3bRfduV_ZQcV0JvqPXUrNE2JIEaOTNlI&usqp=CAU",
+  "quantity": 0
+ }
+]
